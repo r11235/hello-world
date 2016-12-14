@@ -1,0 +1,20 @@
+h1 {
+	font-family: cursive;
+	color: #36648b;
+	text-align: left;
+}
+
+h2 {
+	font-family: Verdana;
+	color: #9A00FF;
+	text-align: left;
+}
+
+img {
+	width:400px;
+	height:300px;
+}
+
+div {
+	background-color: #66DDAA; 
+}
