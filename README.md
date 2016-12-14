@@ -1,4 +1,2 @@
 # hello-world
-hello-world program
-
-Hi! My name is Rachel.
+hello world website
